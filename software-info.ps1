@@ -31,9 +31,9 @@ $allsoftsWOW = Get-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\
 "Path: " + $office.path
 ""
 "--- Licence Office ---"
-cd $office.path
-cd ..\..
-cd Office*
+Set-Location $office.path
+Set-Location ..\..
+Set-Location Office*
 cscript ospp.vbs /dstatus
 
 ""
