@@ -1,7 +1,6 @@
 # Audit-Hardware Powershell
 
 Script Powershell pour l'audit hardware/software d'un ordinateur 
-Sera utilisé dans le cadre de l'audit HW/SW du parc informatique de l'administration de la MDE
 
 ##### Placer sur une clé USB :
 1. hardware-os-info.ps1
