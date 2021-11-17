@@ -13,7 +13,9 @@ Script Powershell pour l'audit hardware/software d'un ordinateur
 Il est possible d'avoir le message suivant : 
 ```powershell
 Modification de la stratégie d'exécution
-La stratégie d'exécution permet de vous prémunir contre les scripts que vous jugez non fiables. En modifiant la stratégie d'exécution, vous vous exposez aux risques de sécurité décrits dans la rubrique d'aide about_Execution_Policies à l'adresse http://go.microsoft.com/fwlink/?LinkID=135170. Voulez-vous modifier la stratégie d'exécution ?
+La stratégie d'exécution permet de vous prémunir contre les scripts que vous jugez non fiables. 
+En modifiant la stratégie d'exécution, vous vous exposez aux risques de sécurité décrits dans la rubrique d'aide about_Execution_Policies à l'adresse http://go.microsoft.com/fwlink/?LinkID=135170. 
+Voulez-vous modifier la stratégie d'exécution ?
 [O] Oui  [N] Non  [S] Suspendre  [?] Aide (la valeur par défaut est « O ») :
 ```
 ## License :
