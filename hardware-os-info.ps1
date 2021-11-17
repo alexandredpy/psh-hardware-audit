@@ -13,7 +13,8 @@
 ##########################################
 
 # Shows hardware and OS details
-# A.DUPOUY 19/09/2021
+# Author : Alexandre DPY (https://github.com/alexandredpy)$
+# License : CC-BY-NC-SA
 
 # Nettoyage de la console
 Clear-Host
